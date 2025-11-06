@@ -6,6 +6,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 from cliffs_delta import cliffs_delta
+from matplotlib.colors import ListedColormap  # <-- Added this import
 
 from loader.plot_config import (
     get_validation_base_dir,
@@ -67,25 +68,58 @@ class CliffsDTablePlotter(BasePlotter):
         # Prepare DataFrame
         d_df = pd.DataFrame(d_matrix, index=node_modes, columns=node_modes)
 
-        # Interpretations for cbar, not for individual cells
-        # negligible: < 0.147, small: < 0.33, medium: < 0.474, large: >= 0.474
+        # --- START: Modified section for 4-color heatmap ---
 
-        # Draw heatmap with text annotations
+        # 1. Define thresholds based on script comments
+        # negligible: < 0.147, small: < 0.33, medium: < 0.474, large: >= 0.474
+        def get_magnitude_bin(d):
+            if pd.isna(d):
+                return np.nan
+            mag = abs(d)
+            if mag < 0.147: return 0  # negligible
+            if mag < 0.33:  return 1  # small
+            if mag < 0.474: return 2  # medium
+            return 3  # large
+
+        # 2. Create a new DataFrame for colors, mapping raw 'd' values to bins
+        magnitude_bins_df = d_df.applymap(get_magnitude_bin)
+
+        # 3. Define the 4 colors from your image (approximations)
+        # [negligible (grey), small (green), medium (yellow), large (red)]
+        magnitude_colors = ['#E0E0E0', '#C8E6C9', '#FFF9C4', '#FFCDD2']
+        magnitude_cmap = ListedColormap(magnitude_colors)
+
+        # 4. Create the annotation text (the raw 'd' values)
+        annot_text = d_df.map(lambda p: f"{p:.2f}" if not pd.isna(p) else "")
+
+        # 5. Draw heatmap
         plt.figure(figsize=(8, 6))
         mask = np.triu(np.ones_like(d_df, dtype=bool))  # mask upper triangle
-        sns.heatmap(
-            d_df,
+
+        ax = sns.heatmap(
+            magnitude_bins_df,  # Use the binned data for *color*
             mask=mask,
-            cmap="coolwarm",  # Diverging colormap
-            vmin=-1.0,  # Fix range from -1
-            vmax=1.0,  # to +1
-            center=0.0,  # Center at 0
-            cbar_kws={"label": "Cliff's Delta (d) Effect Size"},
-            annot=d_df.map(lambda p: f"{p:.2f}" if not pd.isna(p) else ""),  # Format to 2 decimal places
-            fmt="",
+            cmap=magnitude_cmap,  # Use our new 4-color map
+            vmin=-0.5,  # Set vmin/vmax to center the 4 bins [0, 1, 2, 3]
+            vmax=3.5,
+            cbar_kws={"label": "Cliff's Delta (d) Magnitude", "ticks": [0, 1, 2, 3]},  # Set ticks for bins
+            annot=annot_text,  # Use the formatted raw 'd' values for *text*
+            fmt="",  # Annotations are already strings
             linewidths=0.5,
             annot_kws={"size": 9, "color": "black"},
         )
+
+        # 6. Set custom labels for the color bar
+        cbar = ax.collections[0].colorbar
+        cbar_labels = [
+            "negligible\n(< 0.147)",
+            "small\n(< 0.33)",
+            "medium\n(< 0.474)",
+            "large\n(>= 0.474)"
+        ]
+        cbar.set_ticklabels(cbar_labels)
+
+        # --- END: Modified section ---
 
         plt.xticks(rotation=20)
         plt.yticks(rotation=0)
