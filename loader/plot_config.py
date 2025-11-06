@@ -16,6 +16,8 @@ def get_experiments() -> List[Dict[str, str]]:
         {"folder": "merge_all", "label": "merge_all"},
     ]
 
+def get_token_key() -> str:
+    return "completion_tokens"
 
 def get_metric_key() -> str:
     # Change this to plot a different metric key from metrics_results.json

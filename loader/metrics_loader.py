@@ -49,3 +49,27 @@ def load_metric_series(
     if not records:
         return pd.DataFrame(columns=["experiment", metric_key])
     return pd.DataFrame.from_records(records)
+
+
+def load_token_series(
+    base_dir: Path,
+    experiments: Iterable[ExperimentSpec],
+    token_key: str,
+) -> pd.DataFrame:
+    records: List[Dict[str, Any]] = []
+    for exp in experiments:
+        exp_dir = base_dir / exp.folder
+        json_path = exp_dir / "token.json"
+        items = read_metrics_json(json_path)
+        for item in items:
+            if token_key in item:
+                value = item[token_key]
+                # Guard against non-numeric entries
+                if isinstance(value, (int, float)):
+                    records.append({
+                        "experiment": exp.label,
+                        token_key: float(value),
+                    })
+    if not records:
+        return pd.DataFrame(columns=["experiment", token_key])
+    return pd.DataFrame.from_records(records)
