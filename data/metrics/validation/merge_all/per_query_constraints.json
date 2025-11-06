@@ -1,0 +1,3446 @@
+{
+    "easy": {
+        "3": {
+            "1": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "2": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "3": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "4": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "5": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "6": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "7": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "8": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "9": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "10": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "11": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "12": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "13": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": null,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": false
+                }
+            },
+            "14": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "15": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "16": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "17": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "18": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": null,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": false
+                }
+            },
+            "19": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "20": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            }
+        },
+        "5": {
+            "21": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "22": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": null,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": false
+                }
+            },
+            "23": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "24": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "25": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "26": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "27": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "28": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "29": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "30": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "31": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "32": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "33": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "34": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": null,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": true
+                }
+            },
+            "35": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "36": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "37": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "38": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "39": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": null,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": true
+                }
+            },
+            "40": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            }
+        },
+        "7": {
+            "41": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "42": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "43": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "44": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "45": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "46": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "47": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "48": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "49": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "50": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "51": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "52": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "53": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "54": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "55": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": false,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "56": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "57": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "58": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "59": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": false,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "60": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            }
+        }
+    },
+    "medium": {
+        "3": {
+            "61": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "62": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "63": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "64": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "65": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": false,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "66": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": null,
+                    "Transportation": null,
+                    "Room Type": true,
+                    "Budget": false
+                }
+            },
+            "67": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "68": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": true,
+                    "Room Rule": null,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": false
+                }
+            },
+            "69": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": null,
+                    "Transportation": null,
+                    "Room Type": true,
+                    "Budget": true
+                }
+            },
+            "70": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": false,
+                    "Room Rule": null,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": true
+                }
+            },
+            "71": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "72": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "73": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "74": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "75": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "76": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": true,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": false
+                }
+            },
+            "77": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "78": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "79": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "80": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            }
+        },
+        "5": {
+            "81": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "82": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "83": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "84": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "85": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "86": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "87": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": false,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": true
+                }
+            },
+            "88": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "89": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "90": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "91": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "92": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "93": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "94": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "95": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "96": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "97": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "98": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "99": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": false,
+                    "Transportation": null,
+                    "Room Type": null,
+                    "Budget": true
+                }
+            },
+            "100": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            }
+        },
+        "7": {
+            "101": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "102": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "103": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "104": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "105": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "106": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "107": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "108": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "109": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "110": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "111": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "112": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "113": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "114": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "115": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "116": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "117": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "118": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "119": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "120": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            }
+        }
+    },
+    "hard": {
+        "3": {
+            "121": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "122": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "123": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": true,
+                    "Transportation": true,
+                    "Room Type": true,
+                    "Budget": false
+                }
+            },
+            "124": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": true,
+                    "Transportation": true,
+                    "Room Type": true,
+                    "Budget": true
+                }
+            },
+            "125": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "126": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "127": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": false,
+                    "Transportation": true,
+                    "Room Type": true,
+                    "Budget": false
+                }
+            },
+            "128": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": false,
+                    "Room Rule": true,
+                    "Transportation": true,
+                    "Room Type": null,
+                    "Budget": false
+                }
+            },
+            "129": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": false,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "130": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "131": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": false,
+                    "Room Rule": true,
+                    "Transportation": true,
+                    "Room Type": null,
+                    "Budget": false
+                }
+            },
+            "132": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "133": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "134": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "135": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "136": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": true,
+                    "Room Rule": null,
+                    "Transportation": true,
+                    "Room Type": true,
+                    "Budget": false
+                }
+            },
+            "137": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "138": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "139": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "140": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            }
+        },
+        "5": {
+            "141": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "142": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": false,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "143": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "144": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": false,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "145": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "146": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": false,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "147": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": false,
+                    "Transportation": false,
+                    "Room Type": true,
+                    "Budget": false
+                }
+            },
+            "148": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "149": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "150": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "151": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": true,
+                    "Room Rule": null,
+                    "Transportation": true,
+                    "Room Type": true,
+                    "Budget": true
+                }
+            },
+            "152": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "153": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": true,
+                    "Transportation": true,
+                    "Room Type": true,
+                    "Budget": true
+                }
+            },
+            "154": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "155": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "156": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "157": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "158": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "159": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "160": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Cuisine": null,
+                    "Room Rule": true,
+                    "Transportation": true,
+                    "Room Type": true,
+                    "Budget": false
+                }
+            }
+        },
+        "7": {
+            "161": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "162": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": true,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "163": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "164": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "165": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "166": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "167": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "168": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "169": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "170": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "171": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "172": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "173": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "174": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "175": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "176": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": true
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "177": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "178": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": false,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": true,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "179": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": false,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            },
+            "180": {
+                "Commonsense Constraint": {
+                    "Reasonable City Route": true,
+                    "Diverse Restaurants": true,
+                    "Diverse Attractions": true,
+                    "Minimum Nights Stay": true,
+                    "Non-conf. Transportation": true,
+                    "Within Current City": false,
+                    "Within Sandbox": false,
+                    "Complete Information": false
+                },
+                "Hard Constraint": {
+                    "Budget": null,
+                    "Room Rule": null,
+                    "Cuisine": null,
+                    "Room Type": null,
+                    "Transportation": null
+                }
+            }
+        }
+    }
+}
